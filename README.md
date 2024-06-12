@@ -42,11 +42,13 @@ Note: The dataset is highly imbalanced, with Seborrheic Keratosis having the few
 
 ## Technologies Used
 As the libraries versions keep on changing, it is recommended to mention the version of library used in this project:
-- **Python** - version 3.8.18
-- **pandas** - version 2.0.3
-- **numpy** - version 1.22.3
-- **matplotlib** - version 3.7.2
+- **Python** - version 3.10.14
+- **tensorflow** - version 2.16.1
+- **Augmentor** - version 0.2.12
+- **numpy** - version 1.26.4
+- **matplotlib** - version 3.8.4
 - **seaborn** - version 0.12.2
+- **PIL** - version 10.3.0
 - **anaconda** - version 23.5.2
 
 ## How to Use
